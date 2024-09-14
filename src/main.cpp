@@ -5,14 +5,6 @@
 //                               //
 ///////////////////////////////////
 #include <Arduino.h>
-#define LED_1 13
-#define LED_2 12
-#define LED_3 14
-#define LED_4 27
-#define LED_5 26
-#define LED_6 25
-#define LED_7 33
-#define LED_8 32
 #define LED_SPEED (100)
 
 // Put them into an array :
